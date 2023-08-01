@@ -1,0 +1,111 @@
+Expression: 8*6
+Result: 
+
+Expression: 
+Result: 
+
+Expression: 6-6
+Result: 
+
+Expression: 8*5
+Result: 40.0
+
+Expression: 9*9
+Result: 81.0
+
+Expression: 25*
+Result: 
+
+Expression: 8/4
+Result: 2.0
+
+Expression: 85*5
+Result: 425.0
+
+Expression: 9999999*1
+Result: 9999999.0
+
+Expression: 8/6
+Result: 1.3333333333333333
+
+Expression: 85*6
+Result: 510.0
+
+Expression: 8*8
+Result: 64.0
+
+Expression: /2
+Result: 
+
+Expression: 64/2
+Result: 32.0
+
+Expression: 64/2
+Result: 32.0
+
+Expression: /2
+Result: 
+
+Expression: 8*8
+Result: 64.0
+
+Expression: *8
+Result: 
+
+Expression: 
+Result: 
+
+Expression: 5*6
+Result: 30.0
+
+Expression: 2+3
+Result: 5.0
+
+Expression: 8*8
+Result: 64.0
+
+Expression: pow5
+Result: 25.0
+
+Expression: 8pow
+Result: 
+
+Expression: 8pow2
+Result: 
+
+Expression: 2pow8
+Result: 
+
+Expression: 9sqrt
+Result: 
+
+Expression: 8*8
+Result: 64.0
+
+Expression: 
+Result: 
+
+Expression: 9
+Result: 
+
+Expression: pow9
+Result: 81.0
+
+Expression: 9pow9
+Result: 
+
+Expression: 9sqrt
+Result: 
+
+Expression: 9pow5
+Result: 
+
+Expression: 9*9
+Result: 81.0
+
+Expression: 8*8
+Result: 64.0
+
+Expression: 8*8
+Result: 64.0
+
